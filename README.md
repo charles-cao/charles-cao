@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://charles-cao.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=640&lines=Postdoc+%40+Great+Bay+University+%26+Tsinghua;Finding+the+needle+that+doesn't+belong+%F0%9F%94%8D;Author+of+PyTextAD%3A+pip+install+pytextad;Isolation+Kernel+%C2%B7+iForest+%C2%B7+Token-level+TAD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=640&lines=Postdoctoral+Research+Fellow+%40+Tsinghua+University;Finding+the+needle+that+doesn't+belong+%F0%9F%94%8D;Author+of+PyTextAD%3A+pip+install+pytextad;Isolation+Kernel+%C2%B7+iForest+%C2%B7+Token-level+TAD" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,8 +19,8 @@
 
 ```python
 class CharlesCao:
-    role        = "Postdoctoral Researcher"
-    affiliation = ["Great Bay University", "Tsinghua Shenzhen International Graduate School"]
+    role        = "Postdoctoral Research Fellow"
+    affiliation = "Tsinghua Shenzhen International Graduate School, Tsinghua University"
     phd         = "Computer Science, Deakin University (2025)"
     research    = ["Isolation-based & kernel-based anomaly detection",
                    "Streaming data & change detection",
