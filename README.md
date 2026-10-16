@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://charles-cao.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=640&lines=Postdoctoral+Research+Fellow+%40+Tsinghua+University;Finding+the+needle+that+doesn't+belong+%F0%9F%94%8D;Author+of+PyTextAD%3A+pip+install+pytextad;Isolation+Kernel+%C2%B7+iForest+%C2%B7+Token-level+TAD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=760&lines=Postdoc+%40+Tsinghua+University;Finding+the+needle+that+doesn't+belong+%F0%9F%94%8D;Author+of+PyTextAD%3A+pip+install+pytextad;Isolation+Kernel+%C2%B7+iForest+%C2%B7+Token-level+TAD" alt="Typing SVG" />
   </a>
 </p>
 
