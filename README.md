@@ -74,21 +74,11 @@ pip install pytextad
 
 👉 Full list on my [homepage](https://charles-cao.github.io/publications/).
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,matlab,latex,linux,git,vscode&perline=8" alt="tech stack" />
-</p>
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=charles-cao&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles-cao&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=charles-cao&theme=transparent&hide_border=true" alt="streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=charles-cao&show_icons=true&theme=transparent&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles-cao&layout=compact&theme=transparent&hide_border=true&langs_count=6&hide=jupyter%20notebook" alt="top langs" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" />
